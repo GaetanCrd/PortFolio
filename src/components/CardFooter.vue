@@ -4,7 +4,7 @@
     <div>
         <hr class="border-1 my-8 border-gray-400 sm:w-4/12 mx-auto">
         <div class="text-center my-4 dark:text-white flex items-center justify-center">
-            Find my resume<a href="https://media.licdn.com/dms/document/media/D4E2DAQHFCWhcqU9dqA/profile-treasury-document-pdf-analyzed/0/1697795647811?e=1698883200&v=beta&t=Mtap520aVe_9lsrBq_XhH8V-DeYqISHZvMRVa7tQqQs" target="_blank"
+            Find my resume<a href="https://media.licdn.com/dms/document/media/D4E2DAQEhJ39NKZvVag/profile-treasury-document-pdf-analyzed/0/1701678586140?e=1702512000&v=beta&t=SDjYrVesJ-Hzh2PUZOMSKnZnvChbB1hprto7jCYEzso" target="_blank"
                 class="text-white py-1 px-2 ms-2 rounded-md bg-blue-600"> here </a>
         </div>
         <div class="text-center">
