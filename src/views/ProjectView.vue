@@ -179,7 +179,7 @@ const projects = [
             </div>
         </a>
         
-        <a href="https://dvic.devinci.fr/projects/biowatch" target="_blank" class="image-link">
+        <a href="https://dvic.devinci.fr/project/biowatch" target="_blank" class="image-link">
             <div class="flex items-center bg-blue-300 mb-4 p-2 rounded-md shadow-md">
                 <div class="image-container">
                     <img src="../assets/imgs/project3.png" alt="Projet 3" class="image-content" />
