@@ -190,17 +190,18 @@ const projects = [
                 </div>
             </div>
         </a>
-
-        <div class="flex items-center bg-blue-300 mb-4 p-2 rounded-md shadow-md">
-            <div class="image-container">
-                <img src="../assets/imgs/project2.png" alt="Projet 2" class="image-content" />
-            </div>
-            <div class="text-container">
-                <p class="font-bold text-xl">How to create a life size holographic projection</p>
-                <p>Design and manufacture of a hologram using the Pepper's Ghost optical illusion</p>
-            </div>
-        </div>
-
+        
+        <a href="https://dvic.devinci.fr/tutorial/how-to-create-a-life-size-holographic-projection" target="_blank" class="image-link">
+          <div class="flex items-center bg-blue-300 mb-4 p-2 rounded-md shadow-md">
+              <div class="image-container">
+                  <img src="../assets/imgs/project2.png" alt="Projet 2" class="image-content" />
+              </div>
+              <div class="text-container">
+                  <p class="font-bold text-xl">How to create a life size holographic projection</p>
+                  <p>Design and manufacture of a hologram using the Pepper's Ghost optical illusion</p>
+              </div>
+          </div>
+        </a>
 
     </div>
 </template>
